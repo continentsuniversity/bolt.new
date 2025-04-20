@@ -23,6 +23,7 @@
     "node": ">=18.18.0"
   },
   "dependencies": {
+    "@remix-run/node": "^2.10.2",  // Add this line to match your other Remix packages
     "@ai-sdk/anthropic": "^0.0.39",
     "@codemirror/autocomplete": "^6.17.0",
     "@codemirror/commands": "^6.6.0",
